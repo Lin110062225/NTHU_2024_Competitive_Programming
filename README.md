@@ -8,5 +8,5 @@ w7 - BFS
 w8 - tree  
 w9 - graph  
 wA - DP  
-wB - DP
+wB - DP  
 wC - segment tree
